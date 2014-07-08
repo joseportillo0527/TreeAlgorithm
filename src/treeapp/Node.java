@@ -1,6 +1,5 @@
 /* Program Name:  Nodes.java
- * Programmer: Jose Portillo, 0818702
- * Assignment Number: Project #1
+ * Programmer: Jose Portillo
  * Purpose: Used to create nodes.
 */
 
