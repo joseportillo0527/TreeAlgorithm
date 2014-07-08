@@ -1,7 +1,5 @@
 /* Program Name:  TreeApp.java
-* Programmer: Jose Portillo, 0818702
-* Assignment Number: Project #1
-* Purpose: Runs the program to enter input and create a tree. 
+* Programmer: Jose Portillo
 */
 package treeapp;
 import java.io.BufferedReader;
