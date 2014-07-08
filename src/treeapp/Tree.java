@@ -1,6 +1,5 @@
 /* Program Name:  Tree.java
- *Programmer: Jose Portillo, 0818702
- *Assignment Number: Project #1
+ *Programmer: Jose Portillo
  *Purpose: Insert nodes, traverse, and displays the tree.
 */
 package treeapp;
